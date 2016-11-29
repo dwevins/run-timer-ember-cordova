@@ -1,7 +1,6 @@
 # Run-timer
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+adaptation of my run timer project to an android app using ember-cordova
 
 ## Prerequisites
 
@@ -15,10 +14,10 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* change into the new directory
-* `npm install`
-* `bower install`
+* git clone dwevins/run-timer-ember-cordova
+* (change into the new directory)
+* npm install
+* bower install
 
 ## Running / Development
 
@@ -50,4 +49,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
