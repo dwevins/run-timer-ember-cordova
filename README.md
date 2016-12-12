@@ -2,6 +2,13 @@
 
 adaptation of my run timer project to an android app using ember-cordova
 
+change ember/cordova/platforms/android/CordovaLib/build.gradle
+
+maven() to jcenter()
+
+or ember cdv emulate android will fail on build, because some dependencies
+were moved from maven to jcenter
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
